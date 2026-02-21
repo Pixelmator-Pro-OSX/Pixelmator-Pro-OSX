@@ -42,12 +42,6 @@ Efficient editing through adjustment presets provides ready-made effect combinat
 
 ---
 
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH7Zmhec1xLX-pmrgiaFP9_uWP7foQO7cx8Q&s" alt="Pixelmator Pro screenshot"/>
-</p>
-
----
-
 ## Additional Information
 
 Pixelmator Pro distinguishes itself through one-time purchase pricing beyond subscription alternatives. Unlike ongoing subscription burden, single purchase provides professional features serving budget-conscious professionals comprehensively.
